@@ -5,7 +5,7 @@ public class Book {
     public Book(String author, String title, int year) {
         this.author = author;
         this.title = title;
-        this.year = year; //vfkrojwvkpml;dfv16621
+        this.year = year;
     }
     public String getAuthor() {
         return author;
