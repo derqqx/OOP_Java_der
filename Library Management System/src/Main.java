@@ -6,7 +6,7 @@ public class Main {
         LibraryMember member = new LibraryMember(1001 , "Dancing Queen");
 
         Library library = new Library("Cherie");
-//пернктывегьнаплшгрьопртпаивенаоылвпг
+
         library.addBook(book1);
         library.addBook(book2);
         library.displayBooks();
