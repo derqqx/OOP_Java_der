@@ -6,7 +6,7 @@ public class Book {
         this.author = author;
         this.title = title;
         this.year = year;
-    }
+    }nicovtkl4;bmr
     public String getAuthor() {
         return author;
     }
