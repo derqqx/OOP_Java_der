@@ -2,7 +2,6 @@ public class LibraryMember {
 
     private int id;
     private String name;
-
     private Library library;
 
     public LibraryMember(int id, String name, Library library) {
@@ -43,5 +42,4 @@ public class LibraryMember {
     public void setLibrary(Library library) {
         this.library = library;
     }
-
 }

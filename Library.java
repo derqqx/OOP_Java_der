@@ -2,10 +2,8 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Library {
-
     private String libraryName;
     private List<Book> books = new ArrayList<>();
-
     public Library(String libraryName) {
         this.libraryName = libraryName;
     }
